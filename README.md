@@ -41,3 +41,9 @@ User authentication
 Charts for analytics
 
 Cloud deployment
+
+##screenshots
+### expenses page
+![expenses](screenshots/add expense UI.png)
+### Anaytics Dashboard
+![Anaytics](screenshots/analytics.png)
