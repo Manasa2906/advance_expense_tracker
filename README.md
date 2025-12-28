@@ -42,8 +42,14 @@ Charts for analytics
 
 Cloud deployment
 
-##screenshots
-### expenses page
-![expenses](screenshots/add expense UI.png)
-### Anaytics Dashboard
-![Anaytics](screenshots/analytics.png)
+## Screenshots
+
+### Expenses Page
+![Expenses](screenshots/expenses.png)
+
+### Analytics Dashboard
+![Analytics](screenshots/analytics.png)
+
+### Total Expense View
+![Total Expense](screenshots/total_expense.png)
+
